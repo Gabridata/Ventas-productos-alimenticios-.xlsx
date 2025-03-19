@@ -4,7 +4,7 @@ Este proyecto analiza las ventas de productos alimenticios durante el último tr
 
 ## Contenido del repositorio
 
-* `Análisis de las ventas de productos alimenticios.xlsx`: Archivo de Excel con los datos de ventas.
+* `ventas-productos-alimenticios.xlsx` Archivo de Excel con los datos de ventas.
 
 ## Hallazgos Clave
 
